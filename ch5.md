@@ -1,5 +1,5 @@
 # 5 - buddhism in india
-        _topics_
+        *topics*
             - developments after the death of the buddha
             - early councils and schools
             - the formation of the tripitaka or buddhist cannon
