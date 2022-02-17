@@ -5,7 +5,7 @@ My name is Matt, I'm a sophomore Computer Science student at Loyola University w
 You can find my website [here](https://mhyatt000.github.io)
 <!-- <img scr="https://csg.tinkercad.com/things/auJsH6VlK92/t725.png?rev=130&s=&v=0" href="https://mhyatt000.github.io"> </img> -->
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhyatt000&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhyatt000&show_icons=True&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhyatt000&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
