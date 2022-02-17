@@ -1,5 +1,5 @@
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhyatt000&show_icons=True&bg_color=5,000,fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhyatt000&show_icons=True&bg_color=20,055,0ff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhyatt000&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
