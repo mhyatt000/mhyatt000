@@ -1,8 +1,8 @@
 ## Hey!
 
-My name is Matt, I'm a sophomore CS student at Loyola University with an interest in data science and neural networks. 
+My name is Matt, I'm a sophomore Computer Science student at Loyola University with an interest in data science and neural networks. 
 
-You can find my website [here!](https://mhyatt000.github.io)
+You can find my website [here](https://mhyatt000.github.io)
 <!-- <img scr="https://csg.tinkercad.com/things/auJsH6VlK92/t725.png?rev=130&s=&v=0" href="https://mhyatt000.github.io"> </img> -->
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhyatt000&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
