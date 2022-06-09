@@ -20,7 +20,7 @@ You can find my website at [mhyatt000.github.io](https://mhyatt000.github.io)
 </div>
 <div>
 
-<img align="left" alt="PyTorch" width="26px" height="26px"title="PyTorch" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<!-- <img align="left" alt="PyTorch" width="26px" height="26px"title="PyTorch" src="https://pytorch.org/assets/images/pytorch-logo.png" /> -->
  
 <img align="left" alt="TF" width="26px" height="26px" title="TensorFlow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
