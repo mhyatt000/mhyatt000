@@ -17,7 +17,8 @@ You can find my website at [mhyatt000.github.io](https://mhyatt000.github.io)
 
 <img align="left" alt="CSS" width="26px" height="26px"  title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
  
- 
+</div>
+<div>
 
 <img align="left" alt="PyTorch" width="26px" height="26px"title="PyTorch" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-flame.svg" />
 
