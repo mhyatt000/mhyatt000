@@ -9,6 +9,8 @@ You can find my website at [mhyatt000.github.io](https://mhyatt000.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhyatt000&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 <!-- [![Matt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mhyatt000)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
