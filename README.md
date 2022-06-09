@@ -17,8 +17,7 @@ You can find my website at [mhyatt000.github.io](https://mhyatt000.github.io)
 
 <img align="left" alt="CSS" width="26px" height="26px"  title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
  
-</div>
-<div>
+<br/><br/>
  
 <img align="left" alt="Torch" width="26px" height="26px" title="Pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png" />
  
@@ -28,7 +27,7 @@ You can find my website at [mhyatt000.github.io](https://mhyatt000.github.io)
 
 <img align="left" alt="HuggingFace" width="26px" height="26px" title="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
 
- 
+<br/><br/>
  
 <img align="left" alt="LaTeX" width="26px" height="26px" title="LaTeX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
 
@@ -38,8 +37,8 @@ You can find my website at [mhyatt000.github.io](https://mhyatt000.github.io)
 
 <img align="left" alt="Terminal" width="26px"  height="26px" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
 </div>
+<br/><br/>
 
 ---
 
