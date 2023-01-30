@@ -1,6 +1,6 @@
 ## Hey!
 
-My name is Matt, I'm a sophomore Computer Science student at Loyola University with an interest in low power and adversarial computer vision. 
+My name is Matt, I'm a junior Computer Science student at Loyola University with an interest in low power and adversarial computer vision. 
 
 You can find my website at [mhyatt000.github.io](https://mhyatt000.github.io)
 <!-- <img scr="https://csg.tinkercad.com/things/auJsH6VlK92/t725.png?rev=130&s=&v=0" href="https://mhyatt000.github.io"> </img> -->
